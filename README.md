@@ -2,8 +2,6 @@
 
 A local Python desktop app that scans a folder, categorizes files quickly, builds a safe action plan, and then moves, cleans, or extracts files only after you review the plan.
 
-![Fix My Folder app screenshot](docs/media/app-screenshot.png)
-
 The app is designed to be cautious:
 
 - Actions are previewed before anything changes.
