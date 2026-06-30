@@ -111,6 +111,8 @@ File safety:
 
 Liability:
 - To the fullest extent allowed by law, the developer is not responsible for data loss, business interruption, or other damages caused by use of the app.
+- The developer is not liable if files are missing, moved, deleted, overwritten, or otherwise changed accidentally.
+- Use the app responsibly, review every plan before applying it, and keep backups of important files.
 
 Distribution:
 - If you publish or redistribute this app, review these terms and replace them with terms appropriate for your project and jurisdiction.

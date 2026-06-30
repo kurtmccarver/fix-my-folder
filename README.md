@@ -2,6 +2,8 @@
 
 A local Python desktop app that scans a folder, categorizes files quickly, builds a safe action plan, and then moves, cleans, or extracts files only after you review the plan.
 
+![Fix My Folder app screenshot](docs/media/app-screenshot.png)
+
 The app is designed to be cautious:
 
 - Actions are previewed before anything changes.
@@ -234,6 +236,8 @@ https://ko-fi.com/H1D321ZGN8
 ## Privacy And Terms
 
 See [docs/PRIVACY.md](docs/PRIVACY.md) and [docs/TERMS.md](docs/TERMS.md). The app also includes Privacy Policy, Terms, FAQ, and onboarding screens in the GUI.
+
+Use the app responsibly. The developer is not liable if files are missing, moved, deleted, overwritten, or otherwise changed accidentally.
 
 ## Security And Copying
 
